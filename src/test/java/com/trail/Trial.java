@@ -11,4 +11,14 @@ public class Trial {
 	public void methodC() {
 		System.out.println("c");
 	}
+	
+	public void method1() {
+		System.out.println("one");
+	}
+	public void method2() {
+		System.out.println("two");
+	}
+	public void method3() {
+		System.out.println("three");
+	}
 }
